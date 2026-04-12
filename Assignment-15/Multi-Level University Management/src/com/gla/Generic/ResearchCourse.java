@@ -1,0 +1,7 @@
+package com.gla.Generic;
+
+public class ResearchCourse extends CourseType{
+    public ResearchCourse(String courseName) {
+        super(courseName);
+    }
+}
